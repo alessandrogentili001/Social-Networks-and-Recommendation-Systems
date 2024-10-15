@@ -1,0 +1,35 @@
+id,person,unit,unit_id,tenure
+s01,Bruce Banner,Legal,2,22
+s02,Bucky Barnes,Legal,2,10
+s03,Carol Danvers,Legal,2,14
+s04,Clint Barton,Marketing,3,11
+s05,Donald Blake,PR,4,8
+s06,Hank Pym,PR,4,9
+s07,Happy Hogan,PR,4,7
+s08,Henry McCoy,Legal,2,8
+s09,Hope van Dyne,Marketing,3,11
+s10,Howard Stark,Marketing,3,10
+s11,James Rhodes,PR,4,9
+s12,Jane Foster,Legal,2,12
+s13,Janet van Dyne,Legal,2,13
+s14,Jessica Jones,Legal,2,11
+s15,Luke Cage,Marketing,3,11
+s16,Maria Hill,Marketing,3,12
+s17,Matt Murdock,PR,4,14
+s18,Melinda May,Legal,2,10
+s19,Natasha Romanoff,Marketing,3,12
+s20,Nick Fury,Legal,2,11
+s21,Peggy Carter,Marketing,3,15
+s22,Pepper Potts,Legal,2,11
+s23,Peter Parker,Marketing,3,12
+s24,Peter Quill,Marketing,3,16
+s25,Phil Coulson,HR,1,9
+s26,Pietro Maximoff,HR,1,14
+s27,Sam Wilson,Marketing,3,11
+s28,Scott Lang,Marketing,3,10
+s29,Stephen Strange,Marketing,3,9
+s30,Wanda Maximoff,Marketing,3,14
+s31,TChalla,Marketing,3,13
+s32,Steve Rogers,Marketing,3,11
+s33,Tony Stark,Marketing,3,15
+s34,Wade Wilson,Marketing,3,19
